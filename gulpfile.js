@@ -18,7 +18,7 @@ import ttf2woff from 'gulp-ttf2woff'
 import ttf2woff2 from 'gulp-ttf2woff2'
 import webpack from 'webpack-stream'
 
-const projectName = 'docs'
+const projectName = 'dist'
 const srcFolder = 'src'
 const { src, dest } = gulp
 
